@@ -2,7 +2,7 @@
 
 The implementation of Edge MAE in our paper: 
 
-Friend Recall in Online Games via Pre-training Edge Transformers.
+Friend Ranking in Online Games via Pre-training Edge Transformers.
 
 The repository is modified from [a MAE implementation](https://github.com/IcarusWizard/MAE) and tested on Python 3.7.
 
