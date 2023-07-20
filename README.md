@@ -2,7 +2,12 @@
 
 The implementation of Edge MAE and Edge Transformer in our paper: 
 
-Liang Yao, Jiazhen Peng, Shenggong Ji, Qiang Liu, Hongyun Cai, Feng He, Xu Cheng. "Friend Ranking in Online Games via Pre-training Edge Transformers." The 46th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2023).
+Liang Yao, Jiazhen Peng, Shenggong Ji, Qiang Liu, Hongyun Cai, Feng He,
+and Xu Cheng. 2023. Friend Ranking in Online Games via Pre-training
+Edge Transformers. In Proceedings of the 46th International ACM SIGIR
+Conference on Research and Development in Information Retrieval (SIGIR
+’23), pages 2016-2020.
+https://doi.org/10.1145/3539618.3591990
 
 The repository is modified from [a MAE implementation](https://github.com/IcarusWizard/MAE) and tested on Python 3.7.
 
